@@ -25,3 +25,8 @@ Real-time news integration to display local headlines that could impact small bu
 🌐 Full-Stack Architecture
 Built using React.js for the frontend and Node.js for the backend, ensuring a responsive and modular user experience.
 
+live dashboards link: 
+
+https://w254495s1kimiatn-hv8xx7ncznty63g6npanpw.streamlit.app/
+
+
