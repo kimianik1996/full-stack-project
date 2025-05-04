@@ -1,4 +1,4 @@
-# full-stack-project
+# Full-Stack-Project
 
 # Grow Better: Final Capstone Project
 Grow Better is my individual capstone project, developed to demonstrate the full range of skills acquired throughout my university program. This project was particularly challenging, as I was responsible for every stage—from planning to deployment—making it a true milestone in my data and software development journey.
